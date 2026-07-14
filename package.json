@@ -1,0 +1,12 @@
+{
+  "name": "3d-game",
+  "version": "1.0.0",
+  "description": "Three.js 第三人称控制小游戏",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
